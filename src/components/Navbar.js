@@ -43,7 +43,7 @@ const Navbar = () => {
               <li className="nav-item">
                 <a
                   className="nav-link"
-                  href="src\assets\Resume\Devsan-Dhadavi-Resume.pdf"
+                  href="https://drive.google.com/file/d/13d-_P69zovQapX410T9UwT2-GDF1iidj/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                   onClick={collapseNavbar}
