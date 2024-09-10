@@ -43,9 +43,9 @@ const Navbar = () => {
               <li className="nav-item">
                 <a
                   className="nav-link"
-                  href="./../assets/Resume/Devsan-Dhadavi-Resume.pdf"
+                  href="/assets/Resume/Devsan-Dhadavi-Resume.pdf"
                   target="_blank"
-                  rel="noreferrer"
+                  // rel="noreferrer"
                   onClick={collapseNavbar}
                 >Resume</a>
               </li>
