@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 const Navbar = () => {
   const collapseNavbar = () => {
     const navbarToggler = document.querySelector('.navbar-toggler');
