@@ -1,5 +1,5 @@
 import React from 'react';
-import myImage from '../assets/img/myimg.png';
+import profilePic from '../assets/img/profilePic.png';
 
 const Introduction = () => {
   return (
@@ -7,7 +7,7 @@ const Introduction = () => {
       <div className="row align-items-center g-3 py-4">
         <div className="col-lg-6 text-center text-lg-start">
           <img
-            src={myImage}
+            src={profilePic}
             alt="MyImage"
             className="img-fluid rounded-circle img-thumbnail"
           />
