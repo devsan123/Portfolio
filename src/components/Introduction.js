@@ -5,7 +5,7 @@ const Introduction = () => {
   return (
     <section className="container mt-5 pt-5">
       <div className="row align-items-center g-3 py-4">
-        <div className="col-lg-6 text-center text-lg-start">
+        <div className="col-lg-6 text-center text-lg-center">
           <img
             src={profilePic}
             alt="MyImage"
